@@ -11,4 +11,8 @@ This repo contains  problem solution From different platforms
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/Dev0711/DSA-ALL/tree/master/0792-binary-search) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Dev0711/DSA-ALL/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
