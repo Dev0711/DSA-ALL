@@ -7,6 +7,7 @@ This repo contains  problem solution From different platforms
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Dev0711/DSA-ALL/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Dev0711/DSA-ALL/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/Dev0711/DSA-ALL/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/Dev0711/DSA-ALL/tree/master/0792-binary-search) |
 ## Binary Search
@@ -19,6 +20,7 @@ This repo contains  problem solution From different platforms
 | [0007-reverse-integer](https://github.com/Dev0711/DSA-ALL/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Dev0711/DSA-ALL/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Dev0711/DSA-ALL/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Dev0711/DSA-ALL/tree/master/0204-count-primes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,4 +31,12 @@ This repo contains  problem solution From different platforms
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Dev0711/DSA-ALL/tree/master/0125-valid-palindrome) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Dev0711/DSA-ALL/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Dev0711/DSA-ALL/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
