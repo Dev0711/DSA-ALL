@@ -8,6 +8,7 @@ This repo contains  problem solution From different platforms
 | ------- |
 | [0189-rotate-array](https://github.com/Dev0711/DSA-ALL/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Dev0711/DSA-ALL/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/Dev0711/DSA-ALL/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Dev0711/DSA-ALL/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/Dev0711/DSA-ALL/tree/master/0792-binary-search) |
 ## Binary Search
@@ -39,4 +40,12 @@ This repo contains  problem solution From different platforms
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Dev0711/DSA-ALL/tree/master/0204-count-primes) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Dev0711/DSA-ALL/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Dev0711/DSA-ALL/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
