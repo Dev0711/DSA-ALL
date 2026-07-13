@@ -32,6 +32,7 @@ This repo contains  problem solution From different platforms
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Dev0711/DSA-ALL/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Dev0711/DSA-ALL/tree/master/0242-valid-anagram) |
 ## Enumeration
 |  |
 | ------- |
@@ -44,8 +45,10 @@ This repo contains  problem solution From different platforms
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Dev0711/DSA-ALL/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Dev0711/DSA-ALL/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Dev0711/DSA-ALL/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Dev0711/DSA-ALL/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
