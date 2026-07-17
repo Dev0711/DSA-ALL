@@ -10,6 +10,7 @@ This repo contains  problem solution From different platforms
 | [0204-count-primes](https://github.com/Dev0711/DSA-ALL/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Dev0711/DSA-ALL/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Dev0711/DSA-ALL/tree/master/0283-move-zeroes) |
+| [0622-design-circular-queue](https://github.com/Dev0711/DSA-ALL/tree/master/0622-design-circular-queue) |
 | [0792-binary-search](https://github.com/Dev0711/DSA-ALL/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
@@ -51,4 +52,16 @@ This repo contains  problem solution From different platforms
 | ------- |
 | [0217-contains-duplicate](https://github.com/Dev0711/DSA-ALL/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dev0711/DSA-ALL/tree/master/0242-valid-anagram) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Dev0711/DSA-ALL/tree/master/0622-design-circular-queue) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Dev0711/DSA-ALL/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Dev0711/DSA-ALL/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
