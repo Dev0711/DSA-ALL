@@ -59,15 +59,21 @@ This repo contains  problem solution From different platforms
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Dev0711/DSA-ALL/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/Dev0711/DSA-ALL/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Dev0711/DSA-ALL/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Dev0711/DSA-ALL/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/Dev0711/DSA-ALL/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Dev0711/DSA-ALL/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Dev0711/DSA-ALL/tree/master/0933-number-of-recent-calls) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Dev0711/DSA-ALL/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
