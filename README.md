@@ -36,6 +36,7 @@ This repo contains  problem solution From different platforms
 | [0125-valid-palindrome](https://github.com/Dev0711/DSA-ALL/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dev0711/DSA-ALL/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Dev0711/DSA-ALL/tree/master/0242-valid-anagram) |
+| [0796-rotate-string](https://github.com/Dev0711/DSA-ALL/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Dev0711/DSA-ALL/tree/master/1021-remove-outermost-parentheses) |
 ## Enumeration
 |  |
@@ -83,4 +84,8 @@ This repo contains  problem solution From different platforms
 | [0225-implement-stack-using-queues](https://github.com/Dev0711/DSA-ALL/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Dev0711/DSA-ALL/tree/master/0232-implement-queue-using-stacks) |
 | [1021-remove-outermost-parentheses](https://github.com/Dev0711/DSA-ALL/tree/master/1021-remove-outermost-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Dev0711/DSA-ALL/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
