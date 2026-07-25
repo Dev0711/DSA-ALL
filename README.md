@@ -7,6 +7,7 @@ This repo contains  problem solution From different platforms
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Dev0711/DSA-ALL/tree/master/0014-longest-common-prefix) |
+| [0088-merge-sorted-array](https://github.com/Dev0711/DSA-ALL/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Dev0711/DSA-ALL/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Dev0711/DSA-ALL/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Dev0711/DSA-ALL/tree/master/0217-contains-duplicate) |
@@ -27,6 +28,7 @@ This repo contains  problem solution From different platforms
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Dev0711/DSA-ALL/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Dev0711/DSA-ALL/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dev0711/DSA-ALL/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Dev0711/DSA-ALL/tree/master/0189-rotate-array) |
@@ -56,6 +58,7 @@ This repo contains  problem solution From different platforms
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Dev0711/DSA-ALL/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Dev0711/DSA-ALL/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dev0711/DSA-ALL/tree/master/0242-valid-anagram) |
 ## Linked List
