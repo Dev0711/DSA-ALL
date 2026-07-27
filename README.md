@@ -25,6 +25,7 @@ This repo contains  problem solution From different platforms
 | [0009-palindrome-number](https://github.com/Dev0711/DSA-ALL/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Dev0711/DSA-ALL/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Dev0711/DSA-ALL/tree/master/0204-count-primes) |
+| [1903-largest-odd-number-in-string](https://github.com/Dev0711/DSA-ALL/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +43,7 @@ This repo contains  problem solution From different platforms
 | [0242-valid-anagram](https://github.com/Dev0711/DSA-ALL/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/Dev0711/DSA-ALL/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Dev0711/DSA-ALL/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Dev0711/DSA-ALL/tree/master/1903-largest-odd-number-in-string) |
 ## Enumeration
 |  |
 | ------- |
@@ -97,4 +99,8 @@ This repo contains  problem solution From different platforms
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Dev0711/DSA-ALL/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Dev0711/DSA-ALL/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
