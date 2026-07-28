@@ -1,31 +1,31 @@
 class Solution {
     public String reverseWords(String s) {
-             String[] words = s.split(" ");
-        StringBuilder result = new StringBuilder();
+              char[] words = s.toCharArray();
+              int start = 0;
 
-        for (int w = 0; w < words.length; w++) {
-            String reversedWord = reverseWord(words[w]);
-            result.append(reversedWord);
-            if (w != words.length - 1) {
-                result.append(" ");
+
+        for (int end = 0; end <= words.length; end++) {
+            if(end == words.length || words[end] == ' '){
+                reverseWord(words, start, end -1);
+                start = end + 1;
             }
+      
         }
-        return result.toString();
+        return new String(words);
     }
 
     // your existing two-pointer swap, reused as a helper
-    private String reverseWord(String word) {
-        char[] ch = word.toCharArray();
-        int left = 0;
-        int right = ch.length - 1;
-
+    private void reverseWord(char[] words, int left, int right){
+     
+  
         while (left < right) {
-            char temp = ch[left];
-            ch[left] = ch[right];
-            ch[right] = temp;
+            char temp = words[left];
+            words[left] = words[right];
+            words[right] = temp;
             left++;
             right--;
         }
-        return new String(ch);
+    
+    
     }
-    }
+}
