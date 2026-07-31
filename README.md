@@ -9,6 +9,7 @@ This repo contains  problem solution From different platforms
 | [0001-two-sum](https://github.com/Dev0711/DSA-ALL/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Dev0711/DSA-ALL/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/Dev0711/DSA-ALL/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Dev0711/DSA-ALL/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Dev0711/DSA-ALL/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Dev0711/DSA-ALL/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Dev0711/DSA-ALL/tree/master/0217-contains-duplicate) |
@@ -114,4 +115,8 @@ This repo contains  problem solution From different platforms
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Dev0711/DSA-ALL/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Dev0711/DSA-ALL/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
