@@ -9,6 +9,7 @@ This repo contains  problem solution From different platforms
 | [0001-two-sum](https://github.com/Dev0711/DSA-ALL/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Dev0711/DSA-ALL/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/Dev0711/DSA-ALL/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Dev0711/DSA-ALL/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Dev0711/DSA-ALL/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev0711/DSA-ALL/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Dev0711/DSA-ALL/tree/master/0136-single-number) |
@@ -27,6 +28,7 @@ This repo contains  problem solution From different platforms
 | ------- |
 | [0007-reverse-integer](https://github.com/Dev0711/DSA-ALL/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Dev0711/DSA-ALL/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Dev0711/DSA-ALL/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Dev0711/DSA-ALL/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Dev0711/DSA-ALL/tree/master/0204-count-primes) |
 | [1903-largest-odd-number-in-string](https://github.com/Dev0711/DSA-ALL/tree/master/1903-largest-odd-number-in-string) |
