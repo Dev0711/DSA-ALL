@@ -7,6 +7,7 @@ This repo contains  problem solution From different platforms
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dev0711/DSA-ALL/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Dev0711/DSA-ALL/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Dev0711/DSA-ALL/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/Dev0711/DSA-ALL/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Dev0711/DSA-ALL/tree/master/0066-plus-one) |
@@ -35,6 +36,7 @@ This repo contains  problem solution From different platforms
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Dev0711/DSA-ALL/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Dev0711/DSA-ALL/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Dev0711/DSA-ALL/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dev0711/DSA-ALL/tree/master/0151-reverse-words-in-a-string) |
@@ -114,6 +116,7 @@ This repo contains  problem solution From different platforms
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Dev0711/DSA-ALL/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/Dev0711/DSA-ALL/tree/master/1903-largest-odd-number-in-string) |
 ## Counting
 |  |
