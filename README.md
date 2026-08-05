@@ -11,6 +11,7 @@ This repo contains  problem solution From different platforms
 | [0014-longest-common-prefix](https://github.com/Dev0711/DSA-ALL/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/Dev0711/DSA-ALL/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Dev0711/DSA-ALL/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Dev0711/DSA-ALL/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dev0711/DSA-ALL/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev0711/DSA-ALL/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Dev0711/DSA-ALL/tree/master/0136-single-number) |
@@ -37,6 +38,7 @@ This repo contains  problem solution From different platforms
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dev0711/DSA-ALL/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/Dev0711/DSA-ALL/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dev0711/DSA-ALL/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Dev0711/DSA-ALL/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dev0711/DSA-ALL/tree/master/0151-reverse-words-in-a-string) |
@@ -73,6 +75,7 @@ This repo contains  problem solution From different platforms
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Dev0711/DSA-ALL/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dev0711/DSA-ALL/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Dev0711/DSA-ALL/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dev0711/DSA-ALL/tree/master/0242-valid-anagram) |
@@ -135,4 +138,12 @@ This repo contains  problem solution From different platforms
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dev0711/DSA-ALL/tree/master/0053-maximum-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Dev0711/DSA-ALL/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Dev0711/DSA-ALL/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
