@@ -21,6 +21,7 @@ This repo contains  problem solution From different platforms
 | [0283-move-zeroes](https://github.com/Dev0711/DSA-ALL/tree/master/0283-move-zeroes) |
 | [0622-design-circular-queue](https://github.com/Dev0711/DSA-ALL/tree/master/0622-design-circular-queue) |
 | [0792-binary-search](https://github.com/Dev0711/DSA-ALL/tree/master/0792-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/Dev0711/DSA-ALL/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,6 +46,7 @@ This repo contains  problem solution From different platforms
 | [0189-rotate-array](https://github.com/Dev0711/DSA-ALL/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Dev0711/DSA-ALL/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Dev0711/DSA-ALL/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0977-squares-of-a-sorted-array](https://github.com/Dev0711/DSA-ALL/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -81,6 +83,7 @@ This repo contains  problem solution From different platforms
 | [0088-merge-sorted-array](https://github.com/Dev0711/DSA-ALL/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Dev0711/DSA-ALL/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dev0711/DSA-ALL/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/Dev0711/DSA-ALL/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
 | ------- |
