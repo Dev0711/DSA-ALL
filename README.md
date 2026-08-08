@@ -15,6 +15,7 @@ This repo contains  problem solution From different platforms
 | [0088-merge-sorted-array](https://github.com/Dev0711/DSA-ALL/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev0711/DSA-ALL/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Dev0711/DSA-ALL/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Dev0711/DSA-ALL/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Dev0711/DSA-ALL/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Dev0711/DSA-ALL/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Dev0711/DSA-ALL/tree/master/0217-contains-duplicate) |
@@ -73,6 +74,7 @@ This repo contains  problem solution From different platforms
 | ------- |
 | [0001-two-sum](https://github.com/Dev0711/DSA-ALL/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dev0711/DSA-ALL/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Dev0711/DSA-ALL/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dev0711/DSA-ALL/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dev0711/DSA-ALL/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dev0711/DSA-ALL/tree/master/0387-first-unique-character-in-a-string) |
@@ -81,6 +83,7 @@ This repo contains  problem solution From different platforms
 | ------- |
 | [0075-sort-colors](https://github.com/Dev0711/DSA-ALL/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dev0711/DSA-ALL/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Dev0711/DSA-ALL/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dev0711/DSA-ALL/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dev0711/DSA-ALL/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dev0711/DSA-ALL/tree/master/0977-squares-of-a-sorted-array) |
@@ -129,6 +132,7 @@ This repo contains  problem solution From different platforms
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dev0711/DSA-ALL/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dev0711/DSA-ALL/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
@@ -143,6 +147,7 @@ This repo contains  problem solution From different platforms
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dev0711/DSA-ALL/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Dev0711/DSA-ALL/tree/master/0169-majority-element) |
 ## Quicksort
 |  |
 | ------- |
@@ -155,4 +160,8 @@ This repo contains  problem solution From different platforms
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dev0711/DSA-ALL/tree/master/0003-longest-substring-without-repeating-characters) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Dev0711/DSA-ALL/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
