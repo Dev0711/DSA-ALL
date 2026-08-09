@@ -20,12 +20,14 @@ This repo contains  problem solution From different platforms
 | [0204-count-primes](https://github.com/Dev0711/DSA-ALL/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Dev0711/DSA-ALL/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Dev0711/DSA-ALL/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Dev0711/DSA-ALL/tree/master/0287-find-the-duplicate-number) |
 | [0622-design-circular-queue](https://github.com/Dev0711/DSA-ALL/tree/master/0622-design-circular-queue) |
 | [0792-binary-search](https://github.com/Dev0711/DSA-ALL/tree/master/0792-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dev0711/DSA-ALL/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Dev0711/DSA-ALL/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Dev0711/DSA-ALL/tree/master/0792-binary-search) |
 ## Math
 |  |
@@ -46,6 +48,7 @@ This repo contains  problem solution From different platforms
 | [0151-reverse-words-in-a-string](https://github.com/Dev0711/DSA-ALL/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Dev0711/DSA-ALL/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Dev0711/DSA-ALL/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Dev0711/DSA-ALL/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Dev0711/DSA-ALL/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dev0711/DSA-ALL/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -138,6 +141,7 @@ This repo contains  problem solution From different platforms
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Dev0711/DSA-ALL/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Dev0711/DSA-ALL/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -164,4 +168,12 @@ This repo contains  problem solution From different platforms
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dev0711/DSA-ALL/tree/master/0169-majority-element) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Dev0711/DSA-ALL/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Dev0711/DSA-ALL/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
