@@ -19,6 +19,7 @@ This repo contains  problem solution From different platforms
 | [0189-rotate-array](https://github.com/Dev0711/DSA-ALL/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Dev0711/DSA-ALL/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Dev0711/DSA-ALL/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Dev0711/DSA-ALL/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Dev0711/DSA-ALL/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dev0711/DSA-ALL/tree/master/0287-find-the-duplicate-number) |
 | [0622-design-circular-queue](https://github.com/Dev0711/DSA-ALL/tree/master/0622-design-circular-queue) |
@@ -176,4 +177,8 @@ This repo contains  problem solution From different platforms
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Dev0711/DSA-ALL/tree/master/0287-find-the-duplicate-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Dev0711/DSA-ALL/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
